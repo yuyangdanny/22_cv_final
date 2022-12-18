@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 # 22_cv_final
-=======
+======= </br>
 ./New_label 需要先從雅竹提供的google drive 重新下載 </br>
 ./data/leftImg8bit_trainvaltest 需要注意路徑，如果clear wheater foggy wheater已經有，就不需要重新下載 </br>
 剩下調整請觀看 ./run_yolo.pdf </br>
